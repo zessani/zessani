@@ -19,7 +19,7 @@ I’m Zayyan, a sophomore at the University of Arizona, majoring in Computer Sci
 I’m focused on creating innovative web apps and AI solutions to improve user experiences and functionality.
 
 **👯 Collaboration:**  
-Eager to collaborate on projects that merge AI with web development. If you have a tech idea that needs a fresh perspective, let’s connect!
+Eager to collaborate on projects and always looking for hackathons and events to attend!
 
 **🤔 Seeking Help With:**  
 Interested in exploring the latest tech trends and methodologies in AI and web development. I’d love to exchange insights and advice!
