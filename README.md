@@ -16,7 +16,7 @@ I’m Zayyan, a sophomore at the University of Arizona, majoring in Computer Sci
 ---
 
 **🔭 What I’m Working On:**  
-Currently collaborating to create a project using Pinecone and OpenAI to create an app that suggests professors along with their reviews baseded on user input providing tailored suggestions.
+Currently collaborating to create a project using Pinecone and OpenAI to create an app that suggests professors along with their reviews based on user input providing tailored suggestions.
 
 **👯 Collaboration:**  
 Eager to collaborate on projects and always looking for hackathons and events to attend!
