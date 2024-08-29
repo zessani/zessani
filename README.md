@@ -33,12 +33,3 @@ Contact me at [zayyan.essani@gmail.com](mailto:zayyan.essani@gmail.com)
 **🔗 Connect with Me:**  
 [LinkedIn](https://www.linkedin.com/in/zessani/)
 
-**😄 Pronouns:**  
-He/Him
-
-**⚡ Fun Fact:**  
-I had the chance to shadow an engineering manager at Meta, gaining valuable insights into tech leadership and innovation.
-
----
-
-Feel free to check out my projects and connect with me for collaboration or a chat about all things tech!
