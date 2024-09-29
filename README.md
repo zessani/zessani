@@ -8,7 +8,7 @@ I’m Zayyan, a sophomore at the University of Arizona, majoring in Computer Sci
 
 ## Current Roles
 
-**💼 SWE Fellow at HeadstarterAI**  
+**💼 Salesforce Admin at UITS**  
 
 **🌐 Web Developer at Arizona Institute for Resilience**  
 
