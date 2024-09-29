@@ -16,7 +16,7 @@ I’m Zayyan, a sophomore at the University of Arizona, majoring in Computer Sci
 ---
 
 **🔭 What I’m Working On:**  
-Currently collaborating to create a project using Pinecone and OpenAI to create an app that suggests professors along with their reviews based on user input providing tailored suggestions.
+Currently contributing to CodeBounty using NextJS and MERN. It creates an innovative and fun way to learn how to code. You can also play with your friends using multiplayer mode. Imagine Kahoot combined with Scribble.io but for debugging code!
 
 **👯 Collaboration:**  
 Eager to collaborate on projects and always looking for hackathons and events to attend!
