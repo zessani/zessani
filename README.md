@@ -16,7 +16,7 @@ I’m Zayyan, a sophomore at the University of Arizona, majoring in Computer Sci
 ---
 
 **🔭 What I’m Working On:**  
-Currently working on a study group finder app called WildCat Circle for the University of Arizona
+Currently working on a Crypto Analysis AI Agent with real-time data and sentiment analysis using Open AI models with advanced features.
 
 **👯 Collaboration:**  
 Eager to collaborate on projects and always looking for hackathons and events to attend!
