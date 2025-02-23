@@ -10,8 +10,6 @@ I’m Zayyan, a sophomore at the University of Arizona, majoring in Computer Sci
 
 **💼 Salesforce Admin at UITS**  
 
-**🌐 Web Developer at Arizona Institute for Resilience**  
-
 
 ---
 
