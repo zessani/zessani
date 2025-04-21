@@ -8,18 +8,18 @@ I’m Zayyan, a sophomore at the University of Arizona, majoring in Computer Sci
 
 ## Current Roles
 
-**💼 Salesforce Admin at UITS**  
+** Salesforce Admin at UITS**  
 
 
 ---
 
-**🔭 What I’m Working On:**  
+** What I’m Working On:**  
 Currently working on a Crypto Analysis AI Agent with real-time data and sentiment analysis using Open AI models with advanced features.
 
-**👯 Collaboration:**  
+** Collaboration:**  
 Eager to collaborate on projects and always looking for hackathons and events to attend!
 
-**📫 Reach Out:**  
+** Reach Out:**  
 Contact me at [zayyan.essani@gmail.com](mailto:zayyan.essani@gmail.com)
 
 **🔗 Connect with Me:**  
