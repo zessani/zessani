@@ -8,7 +8,7 @@ I’m Zayyan, a sophomore at the University of Arizona, majoring in Computer Sci
 
 ## Current Roles
 
-**Salesforce Admin at UITS**  
+**Salesforce Developer at UITS**  
 
 
 ---
