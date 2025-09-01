@@ -2,14 +2,7 @@
 
 Hi there! 👋
 
-I’m Zayyan, a sophomore at the University of Arizona, majoring in Computer Science and minoring in Entrepreneurship and Innovation. I’m passionate about tech and constantly exploring new ways to make an impact through software and AI.
-
----
-
-## Current Roles
-
-**Salesforce Developer at UITS**  
-
+I’m Zayyan, a junior at the University of Arizona, majoring in Computer Science and minoring in Entrepreneurship and Innovation. I’m passionate about tech and constantly exploring new ways to make an impact through software and AI.
 
 ---
 
