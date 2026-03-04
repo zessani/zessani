@@ -7,7 +7,8 @@ I’m Zayyan, a junior at the University of Arizona, majoring in Computer Scienc
 ---
 
 **What I’m Working On:**  
-Currently working on a Crypto Analysis AI Agent with real-time data and sentiment analysis using Open AI models with advanced features.
+Salesforce Developer at UAHS
+Undergraduate Research Assistant at University of Arizona A4 Lab
 
 **Collaboration:**  
 Eager to collaborate on projects and always looking for hackathons and events to attend!
