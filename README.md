@@ -7,7 +7,7 @@ I’m Zayyan, a junior at the University of Arizona, majoring in Computer Scienc
 ---
 
 **What I’m Working On:**  
-Salesforce Developer at UAHS
+Salesforce Developer at UAHS \n
 Undergraduate Research Assistant at University of Arizona A4 Lab
 
 **Collaboration:**  
