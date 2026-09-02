@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-I’m Zayyan, a senior at the University of Arizona, majoring in Computer Science. I’m passionate about tech and constantly exploring new ways to make an impact through software and AI.
+I’m Zayyan, a senior at the University of Arizona, majoring in Computer Science.
 
 ---
 
