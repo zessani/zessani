@@ -6,6 +6,8 @@ I’m Zayyan, a senior at the University of Arizona, majoring in Computer Scienc
 
 ---
 
+12+ Hackathons | 3x winner
+
 **What I’m Working On:**  
 - Salesforce Developer at UAHS 
 - Undergraduate Research Assistant at University of Arizona A4 Lab
